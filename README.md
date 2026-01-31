@@ -85,7 +85,7 @@ project_root/
 ### Example
 
 ```bash
-MAKE_BED=1 RUN_FSA_NORM=1 ./Alignment.sh T975 1 96 S288C 14 200
+./Alignment.sh T975 1 96 S288C 14 200
 ```
 
 ### Arguments
@@ -164,7 +164,7 @@ Please cite the original repository (and any associated publication, if applicab
 
 ## License
 
-Specify a license before public release (e.g. MIT or BSD-3-Clause).
+MIT.
 
 ---
 
