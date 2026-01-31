@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: >-
+If you use this software, please cite it using the metadata below.
+
+title: "A Targeted Nanopore Sequencing Pipeline for Tandem Gene Array Engineering"
+type: software
+version: 0.1.0
+license: "MIT"
+repository-code: "[https://github.com/takeisue1270/Nanopore_for_gene_array.git](https://github.com/takeisue1270/Nanopore_for_gene_array.git)"
+url: "[https://github.com/takeisue1270/Nanopore_for_gene_array](https://github.com/takeisue1270/Nanopore_for_gene_array)"
+doi: "TBD"  # Set after Zenodo archiving (e.g., 10.5281/zenodo.xxxxxxx)
+
+authors:
+
+* family-names: "Takesue"
+  given-names: "HIroaki"
+  affiliation: "Kyushu University"
+  orcid: "https://orcid.org/0000-0001-8585-5494"
+
+date-released: "2026-01-31"
+
+keywords:
+
+* nanopore
+* targeted sequencing
+* tandem gene array
+* gene duplication
+* genome engineering
+* minimap2
+* bedgraph
+
+references:
+
+* type: software
+  title: "Bedgraph_norm_ratio"
+  authors:
+
+  * family-names: "poccopen"
+    repository-code: "[https://github.com/poccopen/Bedgraph_norm_ratio](https://github.com/poccopen/Bedgraph_norm_ratio)"
+    url: "[https://github.com/poccopen/Bedgraph_norm_ratio](https://github.com/poccopen/Bedgraph_norm_ratio)"
+
+preferred-citation:
+type: software
+title: "A Targeted Nanopore Sequencing Pipeline for Tandem Gene Array Engineering"
+authors:
+- family-names: "Takesue"
+given-names: "Hiroaki"
+version: 0.1.0
+date-released: "2026-01-31"
+doi: "TBD"
