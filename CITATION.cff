@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Takesue"
+  given-names: "Hiroaki"
+  orcid: "https://orcid.org/0000-0001-8585-5494"
+title: "Nanopore_for_gene_array"
+version: 1.0.0
+doi: "TBD"
+date-released: 2026-01-31
+url: "https://github.com/takeisue1270/Nanopore_for_gene_array"
