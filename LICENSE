@@ -1,50 +1,21 @@
-cff-version: 1.2.0
-message: >-
-If you use this software, please cite it using the metadata below.
+MIT License
 
-title: "A Targeted Nanopore Sequencing Pipeline for Tandem Gene Array Engineering"
-type: software
-version: 0.1.0
-license: "MIT"
-repository-code: "[https://github.com/takeisue1270/Nanopore_for_gene_array.git](https://github.com/takeisue1270/Nanopore_for_gene_array.git)"
-url: "[https://github.com/takeisue1270/Nanopore_for_gene_array](https://github.com/takeisue1270/Nanopore_for_gene_array)"
-doi: "TBD"  # Set after Zenodo archiving (e.g., 10.5281/zenodo.xxxxxxx)
+Copyright (c) 2026 Dant
 
-authors:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-* family-names: "Takesue"
-  given-names: "HIroaki"
-  affiliation: "Kyushu University"
-  orcid: "https://orcid.org/0000-0001-8585-5494"
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-date-released: "2026-01-31"
-
-keywords:
-
-* nanopore
-* targeted sequencing
-* tandem gene array
-* gene duplication
-* genome engineering
-* minimap2
-* bedgraph
-
-references:
-
-* type: software
-  title: "Bedgraph_norm_ratio"
-  authors:
-
-  * family-names: "poccopen"
-    repository-code: "[https://github.com/poccopen/Bedgraph_norm_ratio](https://github.com/poccopen/Bedgraph_norm_ratio)"
-    url: "[https://github.com/poccopen/Bedgraph_norm_ratio](https://github.com/poccopen/Bedgraph_norm_ratio)"
-
-preferred-citation:
-type: software
-title: "A Targeted Nanopore Sequencing Pipeline for Tandem Gene Array Engineering"
-authors:
-- family-names: "Takesue"
-given-names: "Hiroaki"
-version: 0.1.0
-date-released: "2026-01-31"
-doi: "TBD"
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
