@@ -1,0 +1,41 @@
+# 生成物
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.coverage
+htmlcov/
+
+# 実験データは commit しない
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.pod5
+*.fast5
+*.bam
+*.bam.bai
+*.sam
+*.dna
+*.ab1
+fastq_pass/
+fastq_fail/
+
+# 実行時の出力
+designs/
+out/
+results/
+*.previous.*
+
+# 研究室の管理表
+*.xlsx
+*.xlsm
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
